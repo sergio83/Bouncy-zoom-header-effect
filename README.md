@@ -8,7 +8,7 @@ When you pull down on the UIScrollView it scales the header image using the UISc
 
 
 <br><br>
-<a href="https://imgflip.com/gif/xqppt"><img src="https://i.imgflip.com/xqppt.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/xqq1f"><img src="https://i.imgflip.com/xqq1f.gif" title="made at imgflip.com"/></a>
 <br>
 
 
