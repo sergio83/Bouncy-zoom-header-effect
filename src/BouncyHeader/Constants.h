@@ -1,0 +1,11 @@
+//
+//  Constants.h
+//  BouncyHeader
+//
+//  Created by Sergio Cirasa on 1/21/16.
+//
+//
+
+#define kTitleLabel @"Caminito"
+
+#define kDescriptionLabel @"Caminito es uno de los paseos más emblemáticos de la ciudad y de los atractivos imperdibles para quienes lo visitan. Con sus conventillos típicos de chapa del barrio de La Boca, que muestran sus paredes pintadas de distintos colores, es también un museo a cielo abierto de casi 150 metros de longitud. Su trazado sinuoso se debe a que sigue el cauce de un arroyo que fluyó hasta principios del siglo XX. La zona era conocido popularmente como \"Puntin\" (diminutivo de \"puente\" en dialecto genovés ). \nDurante mucho tiempo formó parte del recorrido del ferrocarril a Ensenada (a una hora de Buenos Aires) hasta que en 1928 el ramal fue clausurado y la vía se convirtió en un callejón abandonado. Fue gracias a la iniciativa de varios vecinos, entre los que se encontraba el pintor Benito Quinquela Martín (uno de los principales benefactores del barrio y cuya obra se conmemora a través del colorido de las casas de La Boca), que en los años 1950 se recuperó el terreno para convertirlo en un paseo peatonal y en una calle museo, en la que de a poco se fueron sumando obras de distintos artistas. En 1959, por iniciativa de Quinquela Martín, se lo bautizó con el nombre del célebre tango “Caminito”, compuesto por Juan de Dios Filiberto y Gabino Coria Peñaloza y estrenado en los carnavales de 1926. \nEn la \"Feria de Artistas Plásticos de Caminito\" encontrarás artistas contemporáneos de destacada trayectoria, que exponen y venden sus obras inspiradas en el colorido de su entorno y el sentir tanguero. Funciona todos los días de 11:00 a 18:00 hs (invierno) y de 11:00 a 20:00 hs (verano)\n\nCuriosidades\n\n¿Sabías que la letra del tango \"Caminito\", compuesta por Gabino Coria Peñaloza, fue originalmente un poema escrito por el mismo autor en 1903 en homenaje a un sendero de la localidad de Olta, en la provincia de La Rioja? \nConocé la historia del barrio de La Boca y enterate de todas las actividades de la ciudad en Agenda Cultural."
