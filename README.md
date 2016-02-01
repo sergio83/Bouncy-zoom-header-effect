@@ -1,6 +1,3 @@
-# Bouncy-zoom-header-effect
-Objective-C: When you pull down on the UIScrollView it scales the header image using the UIScrollView delegate.
-
 Bouncy/Zoom header 
 ==============
 
